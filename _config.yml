@@ -1,0 +1,28 @@
+name: DonaldTrumpHateYou
+favicon: null
+layout_spectrum: 0.40948560275137424
+typography_spectrum: 0.5461905475240201
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6139725602697581
+  lightness: 0.18765057530254126
+  saturation: 0.8681041451636702
+  rhythmicContrast: 0.8989371373318136
+purpose: []
